@@ -2,6 +2,10 @@
 
 A Streamlit application that analyzes text and generates quizzes using OpenAI's GPT-3.5.
 
+## Demo
+
+https://res.cloudinary.com/rh-demo/video/upload/q_auto,f_auto/Text_fary4w.mp4
+
 ## Features
 
 - Text classification (educational, operational, or procedural)
