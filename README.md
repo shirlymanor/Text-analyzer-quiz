@@ -4,7 +4,8 @@ A Streamlit application that analyzes text and generates quizzes using OpenAI's 
 
 ## Demo
 
-https://res.cloudinary.com/rh-demo/video/upload/q_auto,f_auto/Text_fary4w.mp4
+[![Watch the video](https://res.cloudinary.com/rh-demo/video/upload/q_auto,f_auto/Text_fary4w.jpg)](https://res.cloudinary.com/rh-demo/video/upload/q_auto,f_auto/Text_fary4w.mp4)
+
 
 ## Features
 
